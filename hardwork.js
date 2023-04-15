@@ -1,4 +1,4 @@
-const fs = require("node:fs");
+const fs = require("fs");
 let count = 0;
 
 for (let j = 0; j < 600000000; j++) {
